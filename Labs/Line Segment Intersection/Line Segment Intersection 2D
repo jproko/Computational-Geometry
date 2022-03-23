@@ -1,0 +1,1 @@
+CGAL Global intersection() function for reporting whether or not two line sections intersect or not. If they do, we report the intersection point.
