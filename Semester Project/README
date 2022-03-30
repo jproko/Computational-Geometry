@@ -1,3 +1,7 @@
 This file - repository, contains the semester project of Computational Geometry Course, 
 Department of Informatics, University of Piraeus (2021 - 2022), under the supervision of
-Dr. K. Manes.  
+Dr. K. Manes. 
+
+For a given set of line segments and points in plane, the main task, is the calculation 
+of the Convex Hull of the plane point set, as well as the implementation and analysis
+of the 4 point - location algorithmic techiques provided by C.G.A.L. Library.
